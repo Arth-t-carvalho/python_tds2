@@ -1,0 +1,5 @@
+nota1 = float(input("digite a nota da sua primeira prova"))
+nota2 = float(input("digite a nota da sua segunda prova"))
+nota3 = float(input("digite a nota da sua terceira prova"))
+nota4 = float(input("digite a nota da sua quarta prova"))
+print(f"a media da suas 4 provas é{(nota1+nota2+nota3+nota4)/4}")
